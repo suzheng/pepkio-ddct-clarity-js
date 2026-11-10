@@ -2,6 +2,7 @@
   "name": "pepkio-ddct-clarity",
   "version": "0.1.0",
   "description": "qPCR ΔΔCt calculator with transparent error propagation, Pfaffl efficiency correction, plate QC heatmap, and publication-ready fold-change charts via the Pepkio REST API.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
@@ -20,6 +21,7 @@
   "files": [
     "dist",
     "README.md",
+    "README_NPM.md",
     "LICENSE"
   ],
   "scripts": {
