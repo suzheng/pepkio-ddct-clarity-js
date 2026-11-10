@@ -16,7 +16,7 @@
     }
   },
   "bin": {
-    "pepkio-ddct-clarity": "./dist/cli.js"
+    "pepkio-ddct-clarity": "dist/cli.js"
   },
   "files": [
     "dist",
